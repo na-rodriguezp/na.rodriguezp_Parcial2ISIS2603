@@ -1,0 +1,22 @@
+.container{
+  padding: 1rem;
+}
+.card{
+  width: 15rem;
+}
+.card-img-top{
+  background-color: aliceblue;
+}
+.type-container{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+.type-container span{
+  width: 50%;
+  margin: 0.1rem;
+}
+.button-container{
+  display: flex;
+  justify-content: flex-end;
+}
